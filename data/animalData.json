@@ -1,6 +1,6 @@
 [{
   "first_name": "Billy",
-  "last_name": "Goat",
+  "lastname": "Goat",
   "animal": "goat",
   "age":  21,
   "gender": "M",
@@ -41,7 +41,7 @@
 },
 {
   "first_name": "Simba",
-  "last_name": "Cantwaittobeking",
+  "lastname": "Cantwaittobeking",
   "animal": "lion",
   "age":  4,
   "gender": "M",
